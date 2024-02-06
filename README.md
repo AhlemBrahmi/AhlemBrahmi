@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/ahlem-brahmi/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
 
-  <img src="https://github.com/AhlemBrahmi/AhlemBrahmi/blob/main/profile.jpg" align="right‎" width="25%"/>
+  <img src="https://github.com/AhlemBrahmi/AhlemBrahmi/main/profile.jpg" align="right‎" width="25%"/>
 <!--
 **AhlemBrahmi/AhlemBrahmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
