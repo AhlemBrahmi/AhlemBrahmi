@@ -1,7 +1,7 @@
 <!--### Hi there 👋-->
 
-<h1 align="center">Hi, I'm Ahlem 👋</h1>
-<h2>I'm an IT engineer</h2>
+<h1 align="center">Hi, I'm Ahlem 👋, an IT engineer</h1>
+
 
 <p align="center">
     <a href="https://www.linkedin.com/in/ahlem-brahmi/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
