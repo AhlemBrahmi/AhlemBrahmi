@@ -6,6 +6,7 @@
   </p>
 
   <img src="https://github.com/AhlemBrahmi/AhlemBrahmi/blob/main/profile.jpg" align="right‎" width="25%"/>
+  I'm an IT engineer
 <!--
 **AhlemBrahmi/AhlemBrahmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
